@@ -8,6 +8,11 @@
 
 #import "AppDelegate.h"
 
+#import "FirstViewController.h"
+#import "ConsultViewController.h"
+#import "MyViewController.h"
+
+
 @interface AppDelegate ()
 
 @end
@@ -15,8 +20,31 @@
 @implementation AppDelegate
 
 
+- (void)creatTabBarController {
+    
+    UITabBarController *mainTbc = [[UITabBarController alloc]init];
+    
+    NSArray *vcName = @[@"FirstViewController",@"ConsultViewController",@"MyViewController"];
+    NSMutableArray *vcArr = [[NSMutableArray alloc]init];
+    
+    for (int i = 0; i < vcName.count; i++) {
+        Class cls = NSClassFromString(vcName[i]);
+        UIViewController *vc = [[cls alloc]init];
+        UINavigationController *nc = [[UINavigationController alloc]initWithRootViewController:vc];
+        [vcArr addObject:nc];
+    }
+    
+    mainTbc.viewControllers = vcArr;
+    
+    self.window.rootViewController = mainTbc;
+}
+
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    [self creatTabBarController];
+    
     return YES;
 }
 

@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		09114FEE1E51978C00A8C4F6 /* firstPageTab.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FEA1E51978C00A8C4F6 /* firstPageTab.png */; };
+		09114FEF1E51978C00A8C4F6 /* firstPageTab@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FEB1E51978C00A8C4F6 /* firstPageTab@2x.png */; };
+		09114FF01E51978C00A8C4F6 /* firstPageTabSel.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FEC1E51978C00A8C4F6 /* firstPageTabSel.png */; };
+		09114FF11E51978C00A8C4F6 /* firstPageTabSel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FED1E51978C00A8C4F6 /* firstPageTabSel@2x.png */; };
+		09114FF61E5199DF00A8C4F6 /* consultPagTab.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FF21E5199DF00A8C4F6 /* consultPagTab.png */; };
+		09114FF71E5199DF00A8C4F6 /* consultPagTab@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FF31E5199DF00A8C4F6 /* consultPagTab@2x.png */; };
+		09114FF81E5199DF00A8C4F6 /* consultPagTabSel.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FF41E5199DF00A8C4F6 /* consultPagTabSel.png */; };
+		09114FF91E5199DF00A8C4F6 /* consultPagTabSel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FF51E5199DF00A8C4F6 /* consultPagTabSel@2x.png */; };
+		09114FFE1E519C3C00A8C4F6 /* myPagTab.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FFA1E519C3C00A8C4F6 /* myPagTab.png */; };
+		09114FFF1E519C3C00A8C4F6 /* myPagTab@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FFB1E519C3C00A8C4F6 /* myPagTab@2x.png */; };
+		091150001E519C3C00A8C4F6 /* myPagTabSel.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FFC1E519C3C00A8C4F6 /* myPagTabSel.png */; };
+		091150011E519C3C00A8C4F6 /* myPagTabSel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 09114FFD1E519C3C00A8C4F6 /* myPagTabSel@2x.png */; };
 		0953C2231E514B5800FB165C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0953C2221E514B5800FB165C /* main.m */; };
 		0953C2261E514B5800FB165C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0953C2251E514B5800FB165C /* AppDelegate.m */; };
 		0953C2291E514B5800FB165C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0953C2281E514B5800FB165C /* ViewController.m */; };
@@ -15,6 +27,11 @@
 		0953C2311E514B5800FB165C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0953C22F1E514B5800FB165C /* LaunchScreen.storyboard */; };
 		0953C23C1E514B5800FB165C /* letianTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0953C23B1E514B5800FB165C /* letianTests.m */; };
 		0953C2471E514B5900FB165C /* letianUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0953C2461E514B5900FB165C /* letianUITests.m */; };
+		0970CFEC1E517EB8007480CB /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0970CFEB1E517EB8007480CB /* FirstViewController.m */; };
+		0970CFF01E5180BF007480CB /* ConsultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0970CFEE1E5180BF007480CB /* ConsultViewController.m */; };
+		0970CFF11E5180BF007480CB /* ConsultViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0970CFEF1E5180BF007480CB /* ConsultViewController.xib */; };
+		0970CFF51E5180DF007480CB /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0970CFF31E5180DF007480CB /* MyViewController.m */; };
+		0970CFF61E5180DF007480CB /* MyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0970CFF41E5180DF007480CB /* MyViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +52,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		09114FEA1E51978C00A8C4F6 /* firstPageTab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firstPageTab.png; sourceTree = "<group>"; };
+		09114FEB1E51978C00A8C4F6 /* firstPageTab@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "firstPageTab@2x.png"; sourceTree = "<group>"; };
+		09114FEC1E51978C00A8C4F6 /* firstPageTabSel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firstPageTabSel.png; sourceTree = "<group>"; };
+		09114FED1E51978C00A8C4F6 /* firstPageTabSel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "firstPageTabSel@2x.png"; sourceTree = "<group>"; };
+		09114FF21E5199DF00A8C4F6 /* consultPagTab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = consultPagTab.png; sourceTree = "<group>"; };
+		09114FF31E5199DF00A8C4F6 /* consultPagTab@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "consultPagTab@2x.png"; sourceTree = "<group>"; };
+		09114FF41E5199DF00A8C4F6 /* consultPagTabSel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = consultPagTabSel.png; sourceTree = "<group>"; };
+		09114FF51E5199DF00A8C4F6 /* consultPagTabSel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "consultPagTabSel@2x.png"; sourceTree = "<group>"; };
+		09114FFA1E519C3C00A8C4F6 /* myPagTab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myPagTab.png; sourceTree = "<group>"; };
+		09114FFB1E519C3C00A8C4F6 /* myPagTab@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myPagTab@2x.png"; sourceTree = "<group>"; };
+		09114FFC1E519C3C00A8C4F6 /* myPagTabSel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myPagTabSel.png; sourceTree = "<group>"; };
+		09114FFD1E519C3C00A8C4F6 /* myPagTabSel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "myPagTabSel@2x.png"; sourceTree = "<group>"; };
 		0953C21E1E514B5800FB165C /* letian.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = letian.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0953C2221E514B5800FB165C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0953C2241E514B5800FB165C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +80,14 @@
 		0953C2421E514B5900FB165C /* letianUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = letianUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0953C2461E514B5900FB165C /* letianUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = letianUITests.m; sourceTree = "<group>"; };
 		0953C2481E514B5900FB165C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0970CFEA1E517EB8007480CB /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		0970CFEB1E517EB8007480CB /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		0970CFED1E5180BF007480CB /* ConsultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConsultViewController.h; sourceTree = "<group>"; };
+		0970CFEE1E5180BF007480CB /* ConsultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConsultViewController.m; sourceTree = "<group>"; };
+		0970CFEF1E5180BF007480CB /* ConsultViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConsultViewController.xib; sourceTree = "<group>"; };
+		0970CFF21E5180DF007480CB /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
+		0970CFF31E5180DF007480CB /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
+		0970CFF41E5180DF007480CB /* MyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +115,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		09114FE31E51914E00A8C4F6 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				09114FEA1E51978C00A8C4F6 /* firstPageTab.png */,
+				09114FEB1E51978C00A8C4F6 /* firstPageTab@2x.png */,
+				09114FEC1E51978C00A8C4F6 /* firstPageTabSel.png */,
+				09114FED1E51978C00A8C4F6 /* firstPageTabSel@2x.png */,
+				09114FF21E5199DF00A8C4F6 /* consultPagTab.png */,
+				09114FF31E5199DF00A8C4F6 /* consultPagTab@2x.png */,
+				09114FF41E5199DF00A8C4F6 /* consultPagTabSel.png */,
+				09114FF51E5199DF00A8C4F6 /* consultPagTabSel@2x.png */,
+				09114FFA1E519C3C00A8C4F6 /* myPagTab.png */,
+				09114FFB1E519C3C00A8C4F6 /* myPagTab@2x.png */,
+				09114FFC1E519C3C00A8C4F6 /* myPagTabSel.png */,
+				09114FFD1E519C3C00A8C4F6 /* myPagTabSel@2x.png */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
 		0953C2151E514B5700FB165C = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +157,10 @@
 		0953C2201E514B5800FB165C /* letian */ = {
 			isa = PBXGroup;
 			children = (
+				0970CFDB1E515A92007480CB /* first */,
+				0970CFDD1E515A9E007480CB /* consult */,
+				0970CFDC1E515A9E007480CB /* my */,
+				09114FE31E51914E00A8C4F6 /* resource */,
 				0953C2241E514B5800FB165C /* AppDelegate.h */,
 				0953C2251E514B5800FB165C /* AppDelegate.m */,
 				0953C2271E514B5800FB165C /* ViewController.h */,
@@ -138,6 +198,107 @@
 				0953C2481E514B5900FB165C /* Info.plist */,
 			);
 			path = letianUITests;
+			sourceTree = "<group>";
+		};
+		0970CFDB1E515A92007480CB /* first */ = {
+			isa = PBXGroup;
+			children = (
+				0970CFDE1E517C30007480CB /* controller */,
+				0970CFDF1E517C30007480CB /* view */,
+				0970CFE01E517C30007480CB /* model */,
+			);
+			path = first;
+			sourceTree = "<group>";
+		};
+		0970CFDC1E515A9E007480CB /* my */ = {
+			isa = PBXGroup;
+			children = (
+				0970CFE71E517D3E007480CB /* controller */,
+				0970CFE81E517D3E007480CB /* model */,
+				0970CFE91E517D3E007480CB /* view */,
+			);
+			path = my;
+			sourceTree = "<group>";
+		};
+		0970CFDD1E515A9E007480CB /* consult */ = {
+			isa = PBXGroup;
+			children = (
+				0970CFE41E517CA6007480CB /* controller */,
+				0970CFE51E517CA6007480CB /* view */,
+				0970CFE61E517CA6007480CB /* model */,
+			);
+			path = consult;
+			sourceTree = "<group>";
+		};
+		0970CFDE1E517C30007480CB /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				0970CFEA1E517EB8007480CB /* FirstViewController.h */,
+				0970CFEB1E517EB8007480CB /* FirstViewController.m */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		0970CFDF1E517C30007480CB /* view */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		0970CFE01E517C30007480CB /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		0970CFE41E517CA6007480CB /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				0970CFED1E5180BF007480CB /* ConsultViewController.h */,
+				0970CFEE1E5180BF007480CB /* ConsultViewController.m */,
+				0970CFEF1E5180BF007480CB /* ConsultViewController.xib */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		0970CFE51E517CA6007480CB /* view */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		0970CFE61E517CA6007480CB /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		0970CFE71E517D3E007480CB /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				0970CFF21E5180DF007480CB /* MyViewController.h */,
+				0970CFF31E5180DF007480CB /* MyViewController.m */,
+				0970CFF41E5180DF007480CB /* MyViewController.xib */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		0970CFE81E517D3E007480CB /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		0970CFE91E517D3E007480CB /* view */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = view;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +368,7 @@
 				TargetAttributes = {
 					0953C21D1E514B5700FB165C = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 3FZ6X72MWM;
 						ProvisioningStyle = Automatic;
 					};
 					0953C2361E514B5800FB165C = {
@@ -246,9 +408,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09114FEF1E51978C00A8C4F6 /* firstPageTab@2x.png in Resources */,
 				0953C2311E514B5800FB165C /* LaunchScreen.storyboard in Resources */,
+				0970CFF11E5180BF007480CB /* ConsultViewController.xib in Resources */,
 				0953C22E1E514B5800FB165C /* Assets.xcassets in Resources */,
 				0953C22C1E514B5800FB165C /* Main.storyboard in Resources */,
+				0970CFF61E5180DF007480CB /* MyViewController.xib in Resources */,
+				09114FF81E5199DF00A8C4F6 /* consultPagTabSel.png in Resources */,
+				09114FF91E5199DF00A8C4F6 /* consultPagTabSel@2x.png in Resources */,
+				09114FF11E51978C00A8C4F6 /* firstPageTabSel@2x.png in Resources */,
+				09114FF61E5199DF00A8C4F6 /* consultPagTab.png in Resources */,
+				09114FFE1E519C3C00A8C4F6 /* myPagTab.png in Resources */,
+				091150011E519C3C00A8C4F6 /* myPagTabSel@2x.png in Resources */,
+				091150001E519C3C00A8C4F6 /* myPagTabSel.png in Resources */,
+				09114FF71E5199DF00A8C4F6 /* consultPagTab@2x.png in Resources */,
+				09114FF01E51978C00A8C4F6 /* firstPageTabSel.png in Resources */,
+				09114FEE1E51978C00A8C4F6 /* firstPageTab.png in Resources */,
+				09114FFF1E519C3C00A8C4F6 /* myPagTab@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +449,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0970CFF51E5180DF007480CB /* MyViewController.m in Sources */,
 				0953C2291E514B5800FB165C /* ViewController.m in Sources */,
+				0970CFF01E5180BF007480CB /* ConsultViewController.m in Sources */,
 				0953C2261E514B5800FB165C /* AppDelegate.m in Sources */,
 				0953C2231E514B5800FB165C /* main.m in Sources */,
+				0970CFEC1E517EB8007480CB /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +603,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3FZ6X72MWM;
 				INFOPLIST_FILE = letian/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = J.letian;
@@ -435,6 +615,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3FZ6X72MWM;
 				INFOPLIST_FILE = letian/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = J.letian;
@@ -507,6 +688,7 @@
 				0953C24D1E514B5900FB165C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0953C24E1E514B5900FB165C /* Build configuration list for PBXNativeTarget "letianTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +697,7 @@
 				0953C2501E514B5900FB165C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0953C2511E514B5900FB165C /* Build configuration list for PBXNativeTarget "letianUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +706,7 @@
 				0953C2531E514B5900FB165C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
